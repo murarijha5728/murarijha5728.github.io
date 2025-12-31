@@ -1,149 +1,124 @@
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# Murari Jha — Senior Product Designer
 
-Alternatively, for H1 and H2, an underline-ish style:
+Senior Product Designer with 11+ years of experience designing scalable, high-impact digital products across fintech, travel, healthcare, and consumer platforms. Currently working at **Hinge Health**, focusing on growth experiences that drive revenue through clarity, experimentation, and strong design thinking.
 
-Alt-H1
-======
+---
 
-Alt-H2
-------
+## 👤 About
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+I am a designer who values clarity, craft, and outcomes. I enjoy solving complex problems with ambiguity and translating them into simple, elegant user experiences. My work spans research, interaction design, visual design, and close collaboration with product and engineering teams.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+📍 Bengaluru, India  
+📧 murarijha5728@gmail.com  
+📞 +91 88003 42748  
+🌐 Portfolio: https://creativemj.com  
 
-Combined emphasis with **asterisks and _underscores_**.
+---
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+## 💼 Experience
 
+### **Senior Product Designer — Hinge Health**  
+*Dec 2023 – Present*  
+- Designing growth-focused experiences to increase revenue  
+- Solving ambiguous, high-impact product problems  
+- Working closely with product, data, and engineering teams  
 
-##Lists
+### **UX Designer (Contract) — Google Pay India**  
+*Jun 2021 – May 2023*  
+- Designed payment experiences that are simple, fast, and secure  
+- Collaborated with large cross-functional teams at scale  
 
-1. First ordered list item
-2. Another item
-⋅⋅⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅⋅⋅1. Ordered sub-list
-4. And another item.
+### **Senior Product Designer — Headout**  
+*1 year 7 months*  
+- Improved traveler decision-making and booking experiences  
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+### **Senior Product Designer — BookMyShow**  
+*8 months*  
+- Designed solutions for live entertainment  
+- Contributed to building the Design System  
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+### **Product Designer — Instamojo**  
+*10 months*  
+- Designed mobile and desktop products for e-commerce sellers  
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+### **Senior UI/UX Designer — Appster**  
+*2 years 4 months*  
+- Designed mobile apps and landing pages  
+- Worked with global teams across Australia and India  
 
+### **Lead Designer & Frontend Developer — Xperts Infosoft**  
+*3 years 1 month*  
+- Led a team of designers and developers  
+- Designed and developed web and mobile apps  
+- Hands-on with HTML, CSS, PHP, and WordPress  
 
-[I'm an inline-style link](https://www.google.com)
+---
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+## 🧠 Skills & Tools
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+**Design**
+- User Research
+- Interaction Design
+- Visual Design
+- Rapid Prototyping
+- Agile Methodology
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+**Tools**
+- Figma
+- Mixpanel
+- FullStory
+- Whiteboards, Sticky Notes
+- Markers & Pen/Paper
+- HTML & CSS (working knowledge)
 
-[You can use numbers for reference-style link definitions][1]
+---
 
-Or leave it empty and use the [link text itself].
+## 🎓 Education & Learning
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+- Senior Secondary Education (Commerce), Delhi, India  
+- Multimedia Design & Animation  
+- Web Designing with Code (HTML & CSS)  
+- Continuous self-learning in psychology, behavior, and design  
 
-Some text to show that the reference links can follow later.
+---
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+## 🧩 Design Approach
 
+My design process follows:
+1. Research  
+2. Insight  
+3. Concept  
+4. Iterate & Design  
 
+Design is an ongoing process. I adapt workflows based on project needs, work independently or with teams, and avoid ego or bias in decision-making.
 
-Here's our logo (hover to see the title text):
+---
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+## 📚 Recent Reads
 
-Reference-style: 
-![alt text][logo]
+- *My India: Ideas for the Future* — A.P.J. Abdul Kalam  
+- *The Pathless Path* — Paul Millerd  
+- *Sense and Respond* — Jeff Gothelf & Josh Seiden  
+- *The Wisdom of Insecurity* — Alan W. Watts  
+- *Future Ethics* — Cennydd Bowles  
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+---
 
-Inline `code` has `back-ticks around` it.
+## 🏆 Honors & Awards
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
+- Recorded a podcast on Design Systems at Google  
+- Appster Platinum Club Member (Q1 & Q3)  
+- Leader of the Year — Xperts Infosoft  
 
-var s = "JavaScript syntax highlighting";
-alert(s);
+---
 
-s = "Python syntax highlighting"
-print s
+## 🔗 Links
 
-s = "Python syntax highlighting"
-print s
+- Portfolio: https://creativemj.com  
+- LinkedIn  
+- Dribbble  
+- Medium  
 
-No language indicated, so no syntax highlighting in Markdown Here (varies on Github). 
-But let's throw in a <b>tag</b>.
+---
 
-
-Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].  
-
-You can also use words, to fit your writing style more closely[^note].
-
-[^1]: My reference.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
-[^note]:
-    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.
-
-
-
-    Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-
-##Blockquotes
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-
-Quote break.
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
-
+*Design is elegant problem-solving.*
